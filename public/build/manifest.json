@@ -1,0 +1,67 @@
+{
+  "public/Fonts/Fa3/Yekan Bakh FA 04 Regular.eot": {
+    "file": "assets/Yekan Bakh FA 04 Regular-3e3df945.eot",
+    "src": "public/Fonts/Fa3/Yekan Bakh FA 04 Regular.eot"
+  },
+  "public/Fonts/Fa3/Yekan Bakh FA 04 Regular.ttf": {
+    "file": "assets/Yekan Bakh FA 04 Regular-b043182e.ttf",
+    "src": "public/Fonts/Fa3/Yekan Bakh FA 04 Regular.ttf"
+  },
+  "public/Fonts/Fa3/Yekan Bakh FA 04 Regular.woff": {
+    "file": "assets/Yekan Bakh FA 04 Regular-76bce112.woff",
+    "src": "public/Fonts/Fa3/Yekan Bakh FA 04 Regular.woff"
+  },
+  "public/Fonts/Fa3/Yekan Bakh FA 05 Medium.eot": {
+    "file": "assets/Yekan Bakh FA 05 Medium-98faa6b6.eot",
+    "src": "public/Fonts/Fa3/Yekan Bakh FA 05 Medium.eot"
+  },
+  "public/Fonts/Fa3/Yekan Bakh FA 05 Medium.ttf": {
+    "file": "assets/Yekan Bakh FA 05 Medium-12219331.ttf",
+    "src": "public/Fonts/Fa3/Yekan Bakh FA 05 Medium.ttf"
+  },
+  "public/Fonts/Fa3/Yekan Bakh FA 05 Medium.woff": {
+    "file": "assets/Yekan Bakh FA 05 Medium-054185c5.woff",
+    "src": "public/Fonts/Fa3/Yekan Bakh FA 05 Medium.woff"
+  },
+  "public/Fonts/Fa3/Yekan Bakh FA 06 Bold.eot": {
+    "file": "assets/Yekan Bakh FA 06 Bold-880dd49e.eot",
+    "src": "public/Fonts/Fa3/Yekan Bakh FA 06 Bold.eot"
+  },
+  "public/Fonts/Fa3/Yekan Bakh FA 06 Bold.ttf": {
+    "file": "assets/Yekan Bakh FA 06 Bold-4034f2f7.ttf",
+    "src": "public/Fonts/Fa3/Yekan Bakh FA 06 Bold.ttf"
+  },
+  "public/Fonts/Fa3/Yekan Bakh FA 06 Bold.woff": {
+    "file": "assets/Yekan Bakh FA 06 Bold-998ed2b2.woff",
+    "src": "public/Fonts/Fa3/Yekan Bakh FA 06 Bold.woff"
+  },
+  "public/Fonts/Fa3/Yekan Bakh FA 07 Heavy.eot": {
+    "file": "assets/Yekan Bakh FA 07 Heavy-fa1352f0.eot",
+    "src": "public/Fonts/Fa3/Yekan Bakh FA 07 Heavy.eot"
+  },
+  "public/Fonts/Fa3/Yekan Bakh FA 07 Heavy.ttf": {
+    "file": "assets/Yekan Bakh FA 07 Heavy-71c559b0.ttf",
+    "src": "public/Fonts/Fa3/Yekan Bakh FA 07 Heavy.ttf"
+  },
+  "public/Fonts/Fa3/Yekan Bakh FA 07 Heavy.woff": {
+    "file": "assets/Yekan Bakh FA 07 Heavy-7d64771d.woff",
+    "src": "public/Fonts/Fa3/Yekan Bakh FA 07 Heavy.woff"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-59b39737.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-4faacf17.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.js": {
+    "css": [
+      "assets/app-4faacf17.css"
+    ],
+    "file": "assets/app-b35864fa.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
